@@ -1,7 +1,6 @@
 
 ---
 
-````markdown
 # 🎯 Tarefa: Roteiro de FreeRTOS #1 - EmbarcaTech 2025
 
 **Autor:** Filipe Alves de Sousa  
