@@ -20,7 +20,13 @@ Este projeto implementa um sistema multitarefa utilizando FreeRTOS na plataforma
 - 🎮 Dois **botões** que suspendem/retomam as tarefas do LED e do buzzer.
 
 ---
+## 🌟 Visão Geral do Projeto
 
+### 🎥 Demonstração
+
+[link de um vídeo curto de demonstração do projeto funcionando no GitHub](https://www.youtube.com/shorts/n9v3qVqzuhI)
+
+---
 ## ⚙️ Pré-requisitos
 
 - VS Code com extensão C/C++
