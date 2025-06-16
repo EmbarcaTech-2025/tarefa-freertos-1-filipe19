@@ -23,8 +23,7 @@ Este projeto implementa um sistema multitarefa utilizando FreeRTOS na plataforma
 ## 🌟 Visão Geral do Projeto
 
 ### 🎥 Demonstração
-
-[link de um vídeo curto de demonstração do projeto funcionando no GitHub](https://www.youtube.com/shorts/n9v3qVqzuhI)
+[![vídeo de demonstração do projeto funcionando](https://img.youtube.com/vi/n9v3qVqzuhI/0.jpg)](https://www.youtube.com/shorts/n9v3qVqzuhI)
 
 ---
 ## ⚙️ Pré-requisitos
